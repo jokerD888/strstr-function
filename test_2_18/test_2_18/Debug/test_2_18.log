@@ -1,0 +1,4 @@
+﻿  test.c
+E:\代码\VS\test_2_18\test_2_18\test.c(11,1): warning C4090: “初始化”: 不同的“const”限定符
+E:\代码\VS\test_2_18\test_2_18\test.c(12,1): warning C4090: “初始化”: 不同的“const”限定符
+  test_2_18.vcxproj -> E:\代码\VS\test_2_18\Debug\test_2_18.exe
